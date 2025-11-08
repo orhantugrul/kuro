@@ -1,0 +1,54 @@
+{
+  "name": "nue",
+  "displayName": "Nue",
+  "description": "A minimal, elegant, and modern VS Code theme inspired by sleek aesthetic",
+  "version": "0.0.1",
+  "publisher": "orhantugrul",
+  "author": {
+    "name": "Orhan Tugrul Sahin",
+    "email": "hello@orhantugrul.dev",
+    "url": "https://orhantugrul.dev"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orhantugrul/nue"
+  },
+  "bugs": {
+    "url": "https://github.com/orhantugrul/nue/issues"
+  },
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark theme",
+    "minimal",
+    "monochrome",
+    "elegant",
+    "sexy",
+    "modern",
+    "nue",
+    "clean"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nue-dark.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#0a0a0a",
+    "theme": "dark"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.3.4"
+  }
+}

@@ -1,0 +1,32 @@
+name: 📦 Release version
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Install Semantic Release
+        run: |
+          npm install -g semantic-release \
+            @semantic-release/git \
+            @semantic-release/changelog \
+            @semantic-release/github
+      - name: Run Semantic Release
+        run: semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
