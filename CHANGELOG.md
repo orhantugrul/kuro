@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/orhantugrul/kuro/compare/v1.2.0...v1.2.1) (2025-11-09)
+
+
+### Bug Fixes
+
+* update NPM plugin configuration and correct bun.lock filename in release settings ([2cc6fd5](https://github.com/orhantugrul/kuro/commit/2cc6fd5b2cf0a89e791edff0b35cdb03e92c8d89))
+
 # [1.2.0](https://github.com/orhantugrul/kuro/compare/v1.1.1...v1.2.0) (2025-11-09)
 
 
