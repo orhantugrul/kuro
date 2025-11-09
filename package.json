@@ -1,8 +1,8 @@
 {
-  "name": "nue-theme",
-  "displayName": "Nue",
+  "name": "kuro",
+  "displayName": "Kuro",
   "description": "A minimal, elegant, and modern VS Code theme inspired by sleek aesthetic",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "orhantugrul",
   "author": {
     "name": "Orhan Tugrul Sahin",
@@ -12,10 +12,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/orhantugrul/nue"
+    "url": "https://github.com/orhantugrul/kuro"
   },
   "bugs": {
-    "url": "https://github.com/orhantugrul/nue/issues"
+    "url": "https://github.com/orhantugrul/kuro/issues"
   },
   "engines": {
     "vscode": "^1.105.0"
@@ -32,15 +32,15 @@
     "elegant",
     "sexy",
     "modern",
-    "nue",
+    "kuro",
     "clean"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Nue",
+        "label": "Kuro",
         "uiTheme": "vs-dark",
-        "path": "./themes/nue-dark.json"
+        "path": "./themes/kuro-dark.json"
       }
     ]
   },

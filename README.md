@@ -1,9 +1,9 @@
-# nue
+# kuro
 
-Nue is designed for developers who value clarity and simplicity. With a carefully crafted monochrome palette, it reduces visual noise while maintaining excellent readability for long coding sessions.
+Kuro is designed for developers who value clarity and simplicity. With a carefully crafted monochrome palette, it reduces visual noise while maintaining excellent readability for long coding sessions.
 
 <p align="center">
-  <img src="assets/nue.webp"/>
+  <img src="assets/kuro.webp"/>
 </p>
 
 
@@ -11,13 +11,13 @@ Nue is designed for developers who value clarity and simplicity. With a carefull
 
 1. Open VS Code
 2. Go to Extensions (⌘+Shift+X / Ctrl+Shift+X)
-3. Search for "Nue"
+3. Search for "Kuro"
 4. Click Install
 5. Open Command Palette (⌘+Shift+P / Ctrl+Shift+P)
 6. Select "Preferences: Color Theme"
-7. Choose "Nue"
+7. Choose "Kuro"
 
 
 ## Feedback
 
-Found an issue or have a suggestion? [Open an issue](https://github.com/orhantugrul/nue/issues)
+Found an issue or have a suggestion? [Open an issue](https://github.com/orhantugrul/kuro/issues)
