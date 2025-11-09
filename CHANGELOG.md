@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/orhantugrul/kuro/compare/v1.1.0...v1.1.1) (2025-11-09)
+
+
+### Bug Fixes
+
+* change npm ci to npm install for dependency installation ([dbcc86c](https://github.com/orhantugrul/kuro/commit/dbcc86cf6fb56d9cf2b5e39db46a05aa9960625f))
+
 # [1.1.0](https://github.com/orhantugrul/kuro/compare/v1.0.1...v1.1.0) (2025-11-09)
 
 
