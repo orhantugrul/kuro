@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/orhantugrul/kuro/compare/v1.1.1...v1.2.0) (2025-11-09)
+
+
+### Bug Fixes
+
+* add missing NPM_TOKEN environment variable for semantic release ([881213b](https://github.com/orhantugrul/kuro/commit/881213b5d9671ac6add66ba9d5f815bf4088c263))
+
+
+### Features
+
+* update release configuration to include additional semantic release plugins ([884c64d](https://github.com/orhantugrul/kuro/commit/884c64d879c85df32dbc3ba9463c0ff14161e6fc))
+
 ## [1.1.1](https://github.com/orhantugrul/kuro/compare/v1.1.0...v1.1.1) (2025-11-09)
 
 
