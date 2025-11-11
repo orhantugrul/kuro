@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Kuro",
+  "name": "kuro",
   "type": "dark",
   "colors": {
     "activityBar.background": "#0a0a0a",

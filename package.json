@@ -24,23 +24,25 @@
     "Themes"
   ],
   "keywords": [
-    "theme",
-    "color-theme",
+    "clean",
+    "color theme",
+    "dark",
     "dark theme",
-    "minimal",
-    "monochrome",
     "elegant",
-    "sexy",
-    "modern",
     "kuro",
-    "clean"
+    "minimal",
+    "minimalist",
+    "modern",
+    "monochrome",
+    "sexy",
+    "theme"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Kuro",
+        "label": "kuro",
         "uiTheme": "vs-dark",
-        "path": "./themes/kuro-dark.json"
+        "path": "./themes/kuro.json"
       }
     ]
   },
