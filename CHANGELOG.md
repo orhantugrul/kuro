@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/orhantugrul/kuro/compare/v1.2.1...v1.3.0) (2025-11-11)
+
+
+### Features
+
+* update display name of extension and update README.md to make it more inforamtive ([29eebdd](https://github.com/orhantugrul/kuro/commit/29eebdd32d9488de6be84e51ee31ba226373829a))
+
 ## [1.2.1](https://github.com/orhantugrul/kuro/compare/v1.2.0...v1.2.1) (2025-11-09)
 
 
