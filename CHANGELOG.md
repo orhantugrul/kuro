@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/orhantugrul/kuro/compare/v1.4.1...v1.5.0) (2025-11-11)
+
+
+### Features
+
+* add extension icon ([13c3e9b](https://github.com/orhantugrul/kuro/commit/13c3e9b508803eb68d9c5b9a73bdf014fa6018af))
+
 ## [1.4.1](https://github.com/orhantugrul/kuro/compare/v1.4.0...v1.4.1) (2025-11-11)
 
 
