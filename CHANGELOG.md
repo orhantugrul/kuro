@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/orhantugrul/kuro/compare/v1.3.0...v1.4.0) (2025-11-11)
+
+
+### Features
+
+* add husky and comitlint to check commit messages and keep files formatted ([4ebbaae](https://github.com/orhantugrul/kuro/commit/4ebbaae7e2b33a27a3aee76d548bd2e557046d35))
+
 # [1.3.0](https://github.com/orhantugrul/kuro/compare/v1.2.1...v1.3.0) (2025-11-11)
 
 
