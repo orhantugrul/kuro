@@ -1,7 +1,5 @@
 {
-  "branches": [
-    "main"
-  ],
+  "branches": ["main"],
   "repositoryUrl": "https://github.com/orhantugrul/kuro",
   "plugins": [
     "@semantic-release/commit-analyzer",
@@ -16,11 +14,7 @@
     [
       "@semantic-release/git",
       {
-        "assets": [
-          "package.json",
-          "bun.lock",
-          "CHANGELOG.md"
-        ]
+        "assets": ["package.json", "bun.lock", "CHANGELOG.md"]
       }
     ],
     "@semantic-release/github"
