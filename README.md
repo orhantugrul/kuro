@@ -1,9 +1,9 @@
 # kuro
 
-Kuro is designed for developers who value clarity and simplicity. With a carefully crafted monochrome palette, it reduces visual noise while maintaining excellent readability for long coding sessions.
+Kuro - _**means “purest, most minimal version of black” in Japanese**_ - is designed for developers who value clarity and simplicity. With a carefully crafted monochrome palette, it reduces visual noise while maintaining excellent readability for long coding sessions.
 
 <p align="center">
-  <img src="assets/kuro.webp"/>
+  <img src="assets/kuro.webp" alt="Kuro Theme Preview"/>
 </p>
 
 
