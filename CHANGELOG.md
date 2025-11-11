@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/orhantugrul/kuro/compare/v1.4.0...v1.4.1) (2025-11-11)
+
+
+### Bug Fixes
+
+* add release trigger to run publish.yml on new releases ([39db715](https://github.com/orhantugrul/kuro/commit/39db7151038ba3162bff1b429be8d216383fbef8))
+
 # [1.4.0](https://github.com/orhantugrul/kuro/compare/v1.3.0...v1.4.0) (2025-11-11)
 
 
