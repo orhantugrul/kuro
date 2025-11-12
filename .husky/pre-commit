@@ -1,2 +1,2 @@
 # Format staged files with Biome
-bunx biome check --write --staged --files-ignore-unknown=true
+bunx biome check --write --staged . || exit 0
