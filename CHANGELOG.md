@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/orhantugrul/kuro/compare/v1.5.0...v1.6.0) (2025-11-12)
+
+
+### Features
+
+* update icon and biome configuration ([075eef3](https://github.com/orhantugrul/kuro/commit/075eef359954c0f240d3a97443ed976fe00eaa17))
+
 # [1.5.0](https://github.com/orhantugrul/kuro/compare/v1.4.1...v1.5.0) (2025-11-11)
 
 
