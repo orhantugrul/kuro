@@ -1,7 +1,4 @@
-<h1 style="display: flex; align-items: center; gap: 8px;">
-  <img src="assets/icon.png" alt="Kuro Icon" width="40" height="40"/> 
-  <span>kuro</span>
-</h1>
+# kuro
 
 Kuro - _**means “purest, most minimal version of black” in Japanese**_ - is designed for developers who value clarity and simplicity. With a carefully crafted monochrome palette, it reduces visual noise while maintaining excellent readability for long coding sessions.
 
