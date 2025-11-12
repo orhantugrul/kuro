@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/orhantugrul/kuro/compare/v1.6.0...v1.6.1) (2025-11-12)
+
+
+### Bug Fixes
+
+* update pre-commit hook and biome configuration ([0804652](https://github.com/orhantugrul/kuro/commit/080465270848886bf9308a509fb23e20a7cfae86))
+
 # [1.6.0](https://github.com/orhantugrul/kuro/compare/v1.5.0...v1.6.0) (2025-11-12)
 
 
