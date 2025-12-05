@@ -11,11 +11,11 @@ Kuro - _**means “purest, most minimal version of black” in Japanese**_ - is 
 
 1. Open VS Code
 2. Go to Extensions (⌘+Shift+X / Ctrl+Shift+X)
-3. Search for "Kuro"
+3. Search for "kuro"
 4. Click Install
 5. Open Command Palette (⌘+Shift+P / Ctrl+Shift+P)
 6. Select "Preferences: Color Theme"
-7. Choose "Kuro"
+7. Choose "kuro"
 
 
 ## Feedback
