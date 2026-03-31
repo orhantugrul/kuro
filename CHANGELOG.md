@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/orhantugrul/kuro/compare/v1.6.1...v1.6.2) (2026-03-31)
+
+
+### Bug Fixes
+
+* update color theme settings for improved visibility and consistency ([418906f](https://github.com/orhantugrul/kuro/commit/418906f22bc4f358eaf3e2aeba50fe3724211164))
+
 ## [1.6.1](https://github.com/orhantugrul/kuro/compare/v1.6.0...v1.6.1) (2025-11-12)
 
 
